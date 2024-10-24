@@ -1,4 +1,4 @@
-# pam_lab_var2
+# pam_lab1_var2
 
 A new Flutter project.
 
